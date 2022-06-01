@@ -1,0 +1,19 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "My first project in the Hexlet",
+  "main": "HI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wicked93/hexlet-js.git"
+  },
+  "author": "Zlobin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wicked93/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Wicked93/hexlet-js#readme"
+}
