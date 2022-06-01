@@ -2,10 +2,11 @@
   "name": "firstproject",
   "version": "1.0.0",
   "description": "My first project in the Hexlet",
-  "main": "HI.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Wicked93/hexlet-js.git"
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Wicked93/hexlet-js/issues"
   },
-  "homepage": "https://github.com/Wicked93/hexlet-js#readme"
+  "homepage": "https://github.com/Wicked93/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
